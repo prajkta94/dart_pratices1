@@ -8,7 +8,7 @@ String name = stdin.readLineSync()!;
 print(name);
 print(name.isEmpty);
 print(name.endsWith("a"));
-print(name.startsWith("p "));
+print(name.startsWith("p"));
 
 
 }
