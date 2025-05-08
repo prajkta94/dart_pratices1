@@ -6,7 +6,7 @@ void main(){
     print(names[i]);
   }
 
-List<int> ageNo =[1,2,34,5,5,8,0,9];
+List<int> ageNo =[1,2,34,65,5,8,0,9];
 
 print(ageNo.length);
 
