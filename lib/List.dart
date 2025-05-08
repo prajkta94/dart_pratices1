@@ -24,5 +24,13 @@ print(ageNo);
 
 
 
+
+
+// /*insert(index, element):
+// This method inserts a single element at the specified index. It shifts all elements at and after the index one position to the right.
+
+// insertAll(index, iterable):
+// This method inserts multiple elements (from an iterable) starting at the specified index. It shifts all existing elements from that index onward to the right to make room for all new elements./*
+
 }
 
