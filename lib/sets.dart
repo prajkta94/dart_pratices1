@@ -8,7 +8,6 @@ add(){
   Set itemsNew1 ={6,8,9,4};
   items.addAll(itemsNew1);
   print(items);
-  
   items.add(9);
   print(items.isEmpty);
   items.remove(1);
