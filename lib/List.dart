@@ -14,6 +14,8 @@ print(ageNo.reversed);
 
 print(ageNo.first);
 
+print(ageNo.last)
+
 ageNo.insert(5,90);
 print(ageNo);
 
